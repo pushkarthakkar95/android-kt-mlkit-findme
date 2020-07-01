@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Find Me</string>
+    <string name="instruction_txt">You are to find 1 of each of the following:</string>
+    <string name="instructions_title_txt">Instructions</string>
+    <string name="instruction_msg_txt">1. View the list of items to find\n2. When camera starts, find all the items shown in the list</string>
+    <string name="start_txt">Let\'s Start</string>
+    <string name="won_txt">Congratulations</string>
+    <string name="lost_txt">Game Over!</string>
+    <string name="play_again_btn_txt">Play Again</string>
+    <string name="give_up_txt">Give Up</string>
+    <string name="play_txt">Play</string>
+    <string name="greeting_txt">Welcome to Find Me</string>
+</resources>
