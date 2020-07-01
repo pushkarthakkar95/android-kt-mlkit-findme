@@ -1,6 +1,7 @@
 # FindMe
 
 Android application game made using Machine Learning to challenge users to find randomly selected items near them. 
+Cheat-hint: When asked to find "Musical instrument", showing a laptop works too ;)
 
 ## Tech-stack used:
 
@@ -24,3 +25,7 @@ Android application game made using Machine Learning to challenge users to find 
 
 ## Screeshots: 
 
+<img src="screenshots/question_ss.jpeg" height=400> <img src="screenshots/preview_ss.jpeg" height=400> <img src="screenshots/won_ss.jpeg" height=400> <img src="screenshots/lost_ss.jpeg" height=400>
+
+## Navigation Graph:
+<img src="screenshots/navigation_graph.png" height=400>
