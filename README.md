@@ -9,6 +9,7 @@ Cheat-hint: When asked to find "Musical instrument", showing a laptop works too 
   - Machine Learing (MLKit)
   - Navigation Component
   - Safe Args
+  - CaptureX (jetpack library, for camera functionality)
   - Glide (library)
   - View Model
   - MutableLivedata
